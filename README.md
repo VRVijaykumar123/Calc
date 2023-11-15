@@ -156,8 +156,9 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![Alt text](<web ex  8 1.png>)
-![Alt text](<web ex 8.png>)
+![web ex  8 1](https://github.com/VRVijaykumar123/Calc/assets/133218255/155f10f2-916e-4340-900c-7318e529c0a3)
+![web ex 8](https://github.com/VRVijaykumar123/Calc/assets/133218255/994c96c8-9ca6-4325-814f-4565b9a3def7)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
